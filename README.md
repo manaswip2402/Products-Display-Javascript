@@ -17,13 +17,6 @@
 - create product.html
 - basic structure
 
-#### Loading and Error
-
-- (CSS Loading Spinner)[https://youtu.be/DqqZEpctZ8w]
-- in .products-center
-- div.loading
-- p.error
-
 #### API Docs
 
 - (Course API)[https://www.course-api.com/]
